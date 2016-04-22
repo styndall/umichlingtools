@@ -1,0 +1,10 @@
+Design Doc for Umich Ling Tools:
+
+
+Three major components:
+    UI
+    Processing
+    Storage
+
+These three things should have clear APIs. As few interdependencies as
+possible.
